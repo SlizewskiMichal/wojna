@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michu/Desktop/programowanko/cpp/wojna/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+stack
+-
+time.h
+-
+

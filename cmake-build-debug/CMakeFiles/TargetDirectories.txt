@@ -1,0 +1,3 @@
+/Users/michu/Desktop/programowanko/cpp/wojna/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michu/Desktop/programowanko/cpp/wojna/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michu/Desktop/programowanko/cpp/wojna/cmake-build-debug/CMakeFiles/wojna.dir
